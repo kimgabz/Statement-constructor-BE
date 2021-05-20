@@ -18,7 +18,7 @@
     "express": "^4.17.1",
     "express-pdf": "^1.2.2",
     "express-session": "^1.17.1",
-    "html-pdf": "^2.2.0",
+    "html-pdf": "^3.0.1",
     "html-to-text": "^5.1.1",
     "http-status-codes": "^1.4.0",
     "joi": "^14.3.1",
